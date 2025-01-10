@@ -1,3 +1,5 @@
+This is a project I collaborated on for a group project for my game development module.
+
 # Forgotten Realm: The Mushroom Man's Tale
 ## About
 The intended player experience is an immersive survival adventure where players spawn at a portal and must explore three villages, collecting food, fighting enemies,crafting, and completing objectives. In the second village, they talk to a blacksmith and meet a Mushroom Man who guides them to find the final gem, allowing them to open the portal and complete their quest. The game is going to have an enchanted design and therefore create a mystical but exciting game. 
